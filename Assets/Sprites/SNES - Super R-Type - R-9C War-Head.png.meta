@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: eda797b14ba80814f88beb35b670a306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9113569636072380712
+    second: SNES - Super R-Type - R-9C War-Head_0
+  - first:
+      213: -2451947678879387118
+    second: SNES - Super R-Type - R-9C War-Head_1
+  - first:
+      213: 4033289495173841370
+    second: SNES - Super R-Type - R-9C War-Head_2
+  - first:
+      213: 4780805095081371637
+    second: SNES - Super R-Type - R-9C War-Head_3
+  - first:
+      213: -7032903882283444846
+    second: SNES - Super R-Type - R-9C War-Head_4
+  - first:
+      213: 8704600255119482196
+    second: SNES - Super R-Type - R-9C War-Head_5
+  - first:
+      213: -6965556428740027891
+    second: SNES - Super R-Type - R-9C War-Head_6
+  - first:
+      213: 1720285894516153918
+    second: SNES - Super R-Type - R-9C War-Head_7
+  - first:
+      213: 636277650061438591
+    second: SNES - Super R-Type - R-9C War-Head_8
+  - first:
+      213: -5576409790970584611
+    second: SNES - Super R-Type - R-9C War-Head_9
+  - first:
+      213: -19225201800070280
+    second: SNES - Super R-Type - R-9C War-Head_10
+  - first:
+      213: -2609024162348420074
+    second: SNES - Super R-Type - R-9C War-Head_11
+  - first:
+      213: -6107220257475971752
+    second: SNES - Super R-Type - R-9C War-Head_12
+  - first:
+      213: 2038753293069368994
+    second: SNES - Super R-Type - R-9C War-Head_13
+  - first:
+      213: -838473120621272331
+    second: SNES - Super R-Type - R-9C War-Head_14
+  - first:
+      213: 9050491322940833209
+    second: SNES - Super R-Type - R-9C War-Head_15
+  - first:
+      213: -4738631857113306118
+    second: SNES - Super R-Type - R-9C War-Head_16
+  - first:
+      213: 981328054464524346
+    second: SNES - Super R-Type - R-9C War-Head_17
+  - first:
+      213: -4397464299730454190
+    second: SNES - Super R-Type - R-9C War-Head_18
+  - first:
+      213: 5231176955578635706
+    second: SNES - Super R-Type - R-9C War-Head_19
+  - first:
+      213: -716477876461887864
+    second: SNES - Super R-Type - R-9C War-Head_20
+  - first:
+      213: 949269543963113127
+    second: SNES - Super R-Type - R-9C War-Head_21
+  - first:
+      213: 3876387002039124749
+    second: SNES - Super R-Type - R-9C War-Head_22
+  - first:
+      213: 1389928385895738241
+    second: SNES - Super R-Type - R-9C War-Head_23
+  - first:
+      213: -6104731644146759114
+    second: SNES - Super R-Type - R-9C War-Head_24
+  - first:
+      213: -3595447634962408688
+    second: SNES - Super R-Type - R-9C War-Head_25
+  - first:
+      213: 8573434119142273473
+    second: SNES - Super R-Type - R-9C War-Head_26
+  - first:
+      213: -1757318640053112448
+    second: SNES - Super R-Type - R-9C War-Head_27
+  - first:
+      213: -6200672975398138182
+    second: SNES - Super R-Type - R-9C War-Head_28
+  - first:
+      213: 2854898697251340701
+    second: SNES - Super R-Type - R-9C War-Head_29
+  - first:
+      213: 5281972068280988701
+    second: SNES - Super R-Type - R-9C War-Head_30
+  - first:
+      213: 5066113343568623377
+    second: SNES - Super R-Type - R-9C War-Head_31
+  - first:
+      213: 8554237829671462579
+    second: SNES - Super R-Type - R-9C War-Head_32
+  - first:
+      213: -531433040963580909
+    second: SNES - Super R-Type - R-9C War-Head_33
+  - first:
+      213: -2536150711163246144
+    second: SNES - Super R-Type - R-9C War-Head_34
+  - first:
+      213: -4126870029089505054
+    second: SNES - Super R-Type - R-9C War-Head_35
+  - first:
+      213: 7161850889167146969
+    second: SNES - Super R-Type - R-9C War-Head_36
+  - first:
+      213: 8332258662008787319
+    second: SNES - Super R-Type - R-9C War-Head_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa437410dbafc5489a8eb42cd9ca829
+      internalID: 9113569636072380712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa476743bb1096a49a16c73d31e4bafa
+      internalID: -2451947678879387118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 253
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee98b7870c969489394397f73612e9
+      internalID: 4033289495173841370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 253
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5e98563755804e8da355c55cdb3d1
+      internalID: 4780805095081371637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76048220738dc1441a62113432530a92
+      internalID: -7032903882283444846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 253
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd195ba4f6f3524686932bb2709326f
+      internalID: 8704600255119482196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 253
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b2f533e1c03e4dbcc8b68b8a2b9da
+      internalID: -6965556428740027891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 253
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a8a1e266572e24687c6d2de4dcd0db
+      internalID: 1720285894516153918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 252
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21f724fbec72d48ab1ebbb5e0a91d2
+      internalID: 636277650061438591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 222
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25b9e20bb45ba4080d5ec8f1e7ef8a
+      internalID: -5576409790970584611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 221
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e93aa1dd65104b884bad5642c28d0
+      internalID: -19225201800070280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 221
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55209097280d54947abaeea019fe378e
+      internalID: -2609024162348420074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 222
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b688d496aacfd4b94472496994cc9f
+      internalID: -6107220257475971752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 222
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903aef1120f28548bbb2d8c9088569b
+      internalID: 2038753293069368994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479dfe01dff865a4eb044df7a453929f
+      internalID: -838473120621272331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dff8376191ee942875a139ac445747
+      internalID: 9050491322940833209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e7d77a5a8b5c40a83c139975bfd47
+      internalID: -4738631857113306118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55eef0aec1ad240a8a8764e8a47ff7
+      internalID: 981328054464524346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad00c845771284a8f210bf1f53ec4a
+      internalID: -4397464299730454190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 198
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e6883235bea8349b075e1467d71026
+      internalID: 5231176955578635706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e86771700bcd48b22f2aa4d33dbe7
+      internalID: -716477876461887864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e0645d4639f84dbd6432ff9df5665
+      internalID: 949269543963113127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ca77991c2ca442aae4c740b5bb4ae
+      internalID: 3876387002039124749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 162
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819eb13c2552d96429a3ea97eca448c4
+      internalID: 1389928385895738241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 155
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8ddd180194704a8c468b8c7cd0f0e
+      internalID: -6104731644146759114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f2f2191660624987e7bbb18954bd8
+      internalID: -3595447634962408688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7cbf07b70473498eb28b70233de35
+      internalID: 8573434119142273473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 167
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447038367d984cb418ede7075694e60e
+      internalID: -1757318640053112448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35427e82219935a4e9357ba2ee949fc1
+      internalID: -6200672975398138182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881b5bcd7e22d9b4c862071e57f52d6b
+      internalID: 2854898697251340701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 126
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dbfd60d1dd4094d964f7605212addf
+      internalID: 5281972068280988701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 125
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6eee9ee8e17b49aa92747ab999d1e
+      internalID: 5066113343568623377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 126
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc691706f05b45e47afd825c71c42ae8
+      internalID: 8554237829671462579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6985ff5d87a44d8166f78e4a73893
+      internalID: -531433040963580909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11695e4f2fc79704f882ef12707d014c
+      internalID: -2536150711163246144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 69
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9addddb6f3ed68479ab0425fc42dff5
+      internalID: -4126870029089505054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c966adca0a3b43b316544661ef2ec
+      internalID: 7161850889167146969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - R-9C War-Head_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83801b42c29d404bbacef252590c39d
+      internalID: 8332258662008787319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

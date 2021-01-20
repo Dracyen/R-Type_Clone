@@ -1,0 +1,1696 @@
+fileFormatVersion: 2
+guid: d977b0b44f6c31e4eaf25e20aa6337c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 722422394111506583
+    second: SNES - Super R-Type - Miscellaneous_0
+  - first:
+      213: 8536496311186252965
+    second: SNES - Super R-Type - Miscellaneous_1
+  - first:
+      213: 2662834174282039645
+    second: SNES - Super R-Type - Miscellaneous_2
+  - first:
+      213: -7560084271354103071
+    second: SNES - Super R-Type - Miscellaneous_3
+  - first:
+      213: -6231828481942240223
+    second: SNES - Super R-Type - Miscellaneous_4
+  - first:
+      213: 5525548622430230948
+    second: SNES - Super R-Type - Miscellaneous_5
+  - first:
+      213: -4034722921488009858
+    second: SNES - Super R-Type - Miscellaneous_6
+  - first:
+      213: 5854166517296205915
+    second: SNES - Super R-Type - Miscellaneous_7
+  - first:
+      213: 2675303704738631031
+    second: SNES - Super R-Type - Miscellaneous_8
+  - first:
+      213: 5137097113359074133
+    second: SNES - Super R-Type - Miscellaneous_9
+  - first:
+      213: -1198904271575768919
+    second: SNES - Super R-Type - Miscellaneous_10
+  - first:
+      213: 8892227470013697221
+    second: SNES - Super R-Type - Miscellaneous_11
+  - first:
+      213: 5065835865401096289
+    second: SNES - Super R-Type - Miscellaneous_12
+  - first:
+      213: -5983651048595280645
+    second: SNES - Super R-Type - Miscellaneous_13
+  - first:
+      213: 4526755873227186650
+    second: SNES - Super R-Type - Miscellaneous_14
+  - first:
+      213: 6144000001112912605
+    second: SNES - Super R-Type - Miscellaneous_15
+  - first:
+      213: -5800067490378788981
+    second: SNES - Super R-Type - Miscellaneous_16
+  - first:
+      213: -2593327608585278300
+    second: SNES - Super R-Type - Miscellaneous_17
+  - first:
+      213: -5829732306827281699
+    second: SNES - Super R-Type - Miscellaneous_18
+  - first:
+      213: -8517033415875794287
+    second: SNES - Super R-Type - Miscellaneous_19
+  - first:
+      213: 7020553056915381584
+    second: SNES - Super R-Type - Miscellaneous_20
+  - first:
+      213: 3823738816621076917
+    second: SNES - Super R-Type - Miscellaneous_21
+  - first:
+      213: -1085581734954800682
+    second: SNES - Super R-Type - Miscellaneous_22
+  - first:
+      213: -3245502032118343614
+    second: SNES - Super R-Type - Miscellaneous_23
+  - first:
+      213: 4934186650188968560
+    second: SNES - Super R-Type - Miscellaneous_24
+  - first:
+      213: -194512917579469586
+    second: SNES - Super R-Type - Miscellaneous_25
+  - first:
+      213: 8262301516282059495
+    second: SNES - Super R-Type - Miscellaneous_26
+  - first:
+      213: -8985126943844459988
+    second: SNES - Super R-Type - Miscellaneous_27
+  - first:
+      213: -4852805639488775486
+    second: SNES - Super R-Type - Miscellaneous_28
+  - first:
+      213: -2465666495784073957
+    second: SNES - Super R-Type - Miscellaneous_29
+  - first:
+      213: -7823093385513941031
+    second: SNES - Super R-Type - Miscellaneous_30
+  - first:
+      213: 7009673803979398953
+    second: SNES - Super R-Type - Miscellaneous_31
+  - first:
+      213: -6481746577760221049
+    second: SNES - Super R-Type - Miscellaneous_32
+  - first:
+      213: -1685211094154516695
+    second: SNES - Super R-Type - Miscellaneous_33
+  - first:
+      213: 6501125808237989749
+    second: SNES - Super R-Type - Miscellaneous_34
+  - first:
+      213: 268190876139115776
+    second: SNES - Super R-Type - Miscellaneous_35
+  - first:
+      213: 7930935186079246695
+    second: SNES - Super R-Type - Miscellaneous_36
+  - first:
+      213: -6614472278054829353
+    second: SNES - Super R-Type - Miscellaneous_37
+  - first:
+      213: -4533954197973730627
+    second: SNES - Super R-Type - Miscellaneous_38
+  - first:
+      213: -528213698792336498
+    second: SNES - Super R-Type - Miscellaneous_39
+  - first:
+      213: 7736168870422101030
+    second: SNES - Super R-Type - Miscellaneous_40
+  - first:
+      213: 6478628644834395294
+    second: SNES - Super R-Type - Miscellaneous_41
+  - first:
+      213: -489277363816467957
+    second: SNES - Super R-Type - Miscellaneous_42
+  - first:
+      213: 7873775240888002035
+    second: SNES - Super R-Type - Miscellaneous_43
+  - first:
+      213: 457673619548723800
+    second: SNES - Super R-Type - Miscellaneous_44
+  - first:
+      213: -7825661993922906048
+    second: SNES - Super R-Type - Miscellaneous_45
+  - first:
+      213: -5633563321366874472
+    second: SNES - Super R-Type - Miscellaneous_46
+  - first:
+      213: -8936602493236905325
+    second: SNES - Super R-Type - Miscellaneous_47
+  - first:
+      213: 8300024479605066719
+    second: SNES - Super R-Type - Miscellaneous_48
+  - first:
+      213: 7095572029524657268
+    second: SNES - Super R-Type - Miscellaneous_49
+  - first:
+      213: -856889828181828768
+    second: SNES - Super R-Type - Miscellaneous_50
+  - first:
+      213: 2574063765679598517
+    second: SNES - Super R-Type - Miscellaneous_51
+  - first:
+      213: -1324479452976841765
+    second: SNES - Super R-Type - Miscellaneous_52
+  - first:
+      213: 598932481069366989
+    second: SNES - Super R-Type - Miscellaneous_53
+  - first:
+      213: 1301399564968303821
+    second: SNES - Super R-Type - Miscellaneous_54
+  - first:
+      213: -6994098617689658004
+    second: SNES - Super R-Type - Miscellaneous_55
+  - first:
+      213: -733319750024692562
+    second: SNES - Super R-Type - Miscellaneous_56
+  - first:
+      213: -5853901644152368942
+    second: SNES - Super R-Type - Miscellaneous_57
+  - first:
+      213: -3031785975219177940
+    second: SNES - Super R-Type - Miscellaneous_58
+  - first:
+      213: 7237801389203276595
+    second: SNES - Super R-Type - Miscellaneous_59
+  - first:
+      213: 2043924592938500153
+    second: SNES - Super R-Type - Miscellaneous_60
+  - first:
+      213: 3483655577853393290
+    second: SNES - Super R-Type - Miscellaneous_61
+  - first:
+      213: -1241866670018537673
+    second: SNES - Super R-Type - Miscellaneous_62
+  - first:
+      213: -3567683761947464882
+    second: SNES - Super R-Type - Miscellaneous_63
+  - first:
+      213: 893718440170982227
+    second: SNES - Super R-Type - Miscellaneous_64
+  - first:
+      213: -7116034641267046717
+    second: SNES - Super R-Type - Miscellaneous_65
+  - first:
+      213: -3280072170282421312
+    second: SNES - Super R-Type - Miscellaneous_66
+  - first:
+      213: -414329097065471927
+    second: SNES - Super R-Type - Miscellaneous_67
+  - first:
+      213: -7477723945507556301
+    second: SNES - Super R-Type - Miscellaneous_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3eb8399b106140856e6b7ef1583a4
+      internalID: 722422394111506583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d6b622e408a94eac733feddaddf0b
+      internalID: 8536496311186252965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782f1b5ff97d2b488b465a6e059a286
+      internalID: 2662834174282039645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559ea567418c0d4aaea716912c24cb2
+      internalID: -7560084271354103071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee43fa9d167f7468c6e8791f010a8d
+      internalID: -6231828481942240223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961bd143dabfd14438ac5b718508343e
+      internalID: 5525548622430230948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 171
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c6efe5bb3a73459fd3fecf4b61d83
+      internalID: -4034722921488009858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 168
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37afbdfbb905b2648bbf95bee017d241
+      internalID: 5854166517296205915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 168
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd99502105f894997ba14a2ff0074d
+      internalID: 2675303704738631031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 168
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c121188798f3184291ae69da7c7e930
+      internalID: 5137097113359074133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 169
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356193760082514f969a1ca92e467c1
+      internalID: -1198904271575768919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a98209d9c8ed24db8ea1cd0ab9ab93
+      internalID: 8892227470013697221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7955e5fef2ada60469afd53ecbcab7dc
+      internalID: 5065835865401096289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c12b423114164180f7481808d54cf
+      internalID: -5983651048595280645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146cb999b2eb2c74497cf8c022c565b5
+      internalID: 4526755873227186650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffbdd0dfbc7354c95bbb970f123b0e
+      internalID: 6144000001112912605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 123
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dea69ed875b244eba03d7385aea731
+      internalID: -5800067490378788981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 124
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60602628ed20a944fa67bb92b662d826
+      internalID: -2593327608585278300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 124
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dfde6870ad06641abc807e28d84ad2
+      internalID: -5829732306827281699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 125
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2621a68747a6849a9e916592f0984f
+      internalID: -8517033415875794287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2732b630a12b4b9c60a14499b84b5
+      internalID: 7020553056915381584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 125
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe13ddd3f198a41b02f0e990912341
+      internalID: 3823738816621076917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a7be019c3ef84cb5784afd757944b
+      internalID: -1085581734954800682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66c4bea5db51d4f87be11b03bddf95
+      internalID: -3245502032118343614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9a4379d4c8f542a08a1ad1f290010
+      internalID: 4934186650188968560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 103
+        width: 78
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63aae8c9a445b4ab6f0f6b44e213bc
+      internalID: -194512917579469586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430bd84bc4aa1246b3087398536dbdf
+      internalID: 8262301516282059495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 88
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c9eb12b2f90345a4c5e22b1558483
+      internalID: -8985126943844459988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c64ad0c4b55bc4a84d0d55586e136f
+      internalID: -4852805639488775486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b2fef38833a64a9106efce1da5447
+      internalID: -2465666495784073957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b092e432968a4aa030aa80a57dd69
+      internalID: -7823093385513941031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb4171d4576291478ec3da1973bb423
+      internalID: 7009673803979398953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec40a8a14471594e96b27082ce4a9ed
+      internalID: -6481746577760221049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321b6c26ff104346976840e9c16ad3f
+      internalID: -1685211094154516695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9fc53e887078449bf11ea431a4d0f
+      internalID: 6501125808237989749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9ad67618b24a459a972677ba2c2e9
+      internalID: 268190876139115776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bba8937c43674409c0feb0a834c123
+      internalID: 7930935186079246695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f386b333b29244398e9cdcf7906154
+      internalID: -6614472278054829353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 61
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf4edcc8644514eabbcfe66e29e44f
+      internalID: -4533954197973730627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd44a18aadbaf24387315c1719d79fb
+      internalID: -528213698792336498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af224127616893b49a75a599937bf204
+      internalID: 7736168870422101030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d0c6a6dd32ad498d3307defa78bdb
+      internalID: 6478628644834395294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 37
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c693fa10da97f304a8d5c393aa5196c9
+      internalID: -489277363816467957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9428ac2e0bf0da4f8b808021a47e3a6
+      internalID: 7873775240888002035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 37
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bd56d65487f8d41baad4e0e7b20c8e
+      internalID: 457673619548723800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106f63395d6427040bf036cab3c62245
+      internalID: -7825661993922906048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d31d4f1bd6c254db3bd50a40c4c715
+      internalID: -5633563321366874472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15b6bd5944f754ab35b4f4220f4cbc
+      internalID: -8936602493236905325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f316c1259849145a0927d5e7fe059a
+      internalID: 8300024479605066719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e859517afa9d24f9ad6137dceb07f3
+      internalID: 7095572029524657268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e82daa5a8184b40bcdff867b51ca66
+      internalID: -856889828181828768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541c3b4c55ca984c9c5d9a37dbf8b95
+      internalID: 2574063765679598517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a3ffd530f5b44796528cfd65a776d
+      internalID: -1324479452976841765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f686b92bcb4f4c4a9c321feb3850871
+      internalID: 598932481069366989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 22
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea0a82554988749b8e561e6dda8e5c
+      internalID: 1301399564968303821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403b31a350ea8e4fadc33f0b06dea2c
+      internalID: -6994098617689658004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 22
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c949459835e6242879baa510b0d433
+      internalID: -733319750024692562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456fbcc7eb868e46bfe9805d46a9e66
+      internalID: -5853901644152368942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba56b10cdf190644ac8aee961635104
+      internalID: 2043924592938500153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cdbd325e008b3458ed8adea977835a
+      internalID: 3483655577853393290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd767f593c42e42a70f498b441a24e
+      internalID: -1241866670018537673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 13
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865fb64f6f8884945ba3786512a0f511
+      internalID: -3567683761947464882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48d1acb65380748b72a26b3e9507f6
+      internalID: 893718440170982227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d732a737f4bd1e4c836c76ad0ab9055
+      internalID: -7116034641267046717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 111
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f159d2f279bd2624ea9d6df777adad04
+      internalID: -3280072170282421312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6
+        width: 147
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515481fee99caf844b5d4d6dcfec19f3
+      internalID: -414329097065471927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c92930f74d58d80429b838e5a3870e21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 863767808700366472
+    second: SNES - Super R-Type - Ruins_0
+  - first:
+      213: -2409168300946386991
+    second: SNES - Super R-Type - Ruins_1
+  - first:
+      213: -8044517439543671109
+    second: SNES - Super R-Type - Ruins_2
+  - first:
+      213: 2437745219074006553
+    second: SNES - Super R-Type - Ruins_3
+  - first:
+      213: -2701609431536475058
+    second: SNES - Super R-Type - Ruins_4
+  - first:
+      213: -2927066905676058321
+    second: SNES - Super R-Type - Ruins_5
+  - first:
+      213: -1237219649997921949
+    second: SNES - Super R-Type - Ruins_6
+  - first:
+      213: 5945543467341962145
+    second: SNES - Super R-Type - Ruins_8
+  - first:
+      213: -3115305325141060576
+    second: SNES - Super R-Type - Ruins_9
+  - first:
+      213: -9206401666637367432
+    second: SNES - Super R-Type - Ruins_10
+  - first:
+      213: -8294683998283275291
+    second: SNES - Super R-Type - Ruins_11
+  - first:
+      213: 4644997460692195150
+    second: SNES - Super R-Type - Ruins_12
+  - first:
+      213: -8561062010688044397
+    second: SNES - Super R-Type - Ruins_13
+  - first:
+      213: -1985965868633881557
+    second: SNES - Super R-Type - Ruins_14
+  - first:
+      213: 605910656192855106
+    second: SNES - Super R-Type - Ruins_15
+  - first:
+      213: 6026407587554347323
+    second: SNES - Super R-Type - Ruins_16
+  - first:
+      213: 803235036504433357
+    second: SNES - Super R-Type - Ruins_17
+  - first:
+      213: -7775743033928177275
+    second: SNES - Super R-Type - Ruins_39
+  - first:
+      213: -7097598871582281306
+    second: SNES - Super R-Type - Ruins_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 374
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa1b32c8f162241a85f2883ee26159
+      internalID: 863767808700366472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_1
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 460
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72f715a8748384eaa19cd593bb5f0e
+      internalID: -2409168300946386991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 460
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a4cb9aa9d49a4b9487cf3672f882c
+      internalID: -8044517439543671109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 460
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d235c8c69bf3a49aa9703141c6deea
+      internalID: 2437745219074006553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 460
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933865999eb226e488da2bff5859a733
+      internalID: -2701609431536475058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 460
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff770a49c35e8d46abfce75e41314dd
+      internalID: -2927066905676058321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 460
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc4bbb558571c44aa5a0359485f7b8
+      internalID: -1237219649997921949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 407
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e14493566d25444b3a80370f7ef568
+      internalID: 5945543467341962145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 407
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f5b66cf055a540b28cbdae50cb963
+      internalID: -3115305325141060576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_10
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 407
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b46b45def5a94280bffb35d13696a
+      internalID: -9206401666637367432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 365
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449fe1d9fe948314e9fa8942f9bc158c
+      internalID: -8294683998283275291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 365
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835408bae3b5ed429c67df4df2c14fc
+      internalID: 4644997460692195150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_13
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 365
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4142ba48712b4b9c7da2aaf21ae6f
+      internalID: -8561062010688044397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 365
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66690c33431e0814cb08844a6ad63012
+      internalID: -1985965868633881557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 364
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cefb8f7362a4945a9505c9f98cced2
+      internalID: 605910656192855106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 364
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed3c19a39187c4eaa769e4bbff4d9b
+      internalID: 6026407587554347323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 365
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c38943c1f1190344b5e94c10514ce9b
+      internalID: 803235036504433357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 1392
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d028c14c32b98f24f9b11df997b07992
+      internalID: -7775743033928177275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Ruins_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 289
+        width: 287
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494c38643230b04eaaf1d8af3ed23cf
+      internalID: -7097598871582281306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: b42eed9e2c3aa414c904d02aad07f625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2255233767807877804
+    second: Title Screen BGL_0
+  - first:
+      213: 7179341459413854399
+    second: Title Screen BGL_1
+  - first:
+      213: -3459806778458390941
+    second: Title Screen BGL_2
+  - first:
+      213: 2273058646272643213
+    second: Title Screen BGL_3
+  - first:
+      213: -7525074636534073316
+    second: Title Screen BGL_4
+  - first:
+      213: 3105274613914661704
+    second: Title Screen BGL_5
+  - first:
+      213: -2983695046864030141
+    second: Title Screen BGL_6
+  - first:
+      213: 2856916572790184555
+    second: Title Screen BGL_7
+  - first:
+      213: 8266182332450472348
+    second: Title Screen BGL_8
+  - first:
+      213: 6820836174773181108
+    second: Title Screen BGL_9
+  - first:
+      213: -2324894085535572644
+    second: Title Screen BGL_10
+  - first:
+      213: 435695998230291027
+    second: Title Screen BGL_11
+  - first:
+      213: -4000533366448478084
+    second: Title Screen BGL_12
+  - first:
+      213: 2895915657285898920
+    second: Title Screen BGL_13
+  - first:
+      213: -7630916443429060599
+    second: Title Screen BGL_14
+  - first:
+      213: -245983568960782003
+    second: Title Screen BGL_15
+  - first:
+      213: 2085999678018437440
+    second: Title Screen BGL_16
+  - first:
+      213: 3085766092175904989
+    second: Title Screen BGL_17
+  - first:
+      213: 1806583631889759395
+    second: Title Screen BGL_18
+  - first:
+      213: -7741615117145021051
+    second: Title Screen BGL_19
+  - first:
+      213: -7731432060885514097
+    second: Title Screen BGL_20
+  - first:
+      213: 3054194233981904329
+    second: Title Screen BGL_21
+  - first:
+      213: -7913339534000800140
+    second: Title Screen BGL_22
+  - first:
+      213: 1607209824997972842
+    second: Title Screen BGL_23
+  - first:
+      213: 2055069383474706610
+    second: Title Screen BGL_24
+  - first:
+      213: 5123638334579386488
+    second: Title Screen BGL_25
+  - first:
+      213: 2444942078596542875
+    second: Title Screen BGL_26
+  - first:
+      213: -2207919233407015947
+    second: Title Screen BGL_27
+  - first:
+      213: -6567723846528521083
+    second: Title Screen BGL_28
+  - first:
+      213: -5934112765252473124
+    second: Title Screen BGL_29
+  - first:
+      213: -4751669792724352887
+    second: Title Screen BGL_30
+  - first:
+      213: -4289879224003539585
+    second: Title Screen BGL_31
+  - first:
+      213: 4422303297181277353
+    second: Title Screen BGL_32
+  - first:
+      213: -6098748605916920001
+    second: Title Screen BGL_33
+  - first:
+      213: -5161367616304254985
+    second: Title Screen BGL_34
+  - first:
+      213: 8744053871962087200
+    second: Title Screen BGL_35
+  - first:
+      213: 1114164773560258695
+    second: Title Screen BGL_36
+  - first:
+      213: -8167881830649969645
+    second: Title Screen BGL_37
+  - first:
+      213: -8782105276836872157
+    second: Title Screen BGL_39
+  - first:
+      213: -4259080488203580086
+    second: Title Screen BGL_40
+  - first:
+      213: 4129442373821149948
+    second: Title Screen BGL_41
+  - first:
+      213: -6605298432392562836
+    second: Title Screen BGL_42
+  - first:
+      213: 1862479205903320850
+    second: Title Screen BGL_43
+  - first:
+      213: 4254421022163090477
+    second: Title Screen BGL_44
+  - first:
+      213: -5285362305439429407
+    second: Title Screen BGL_45
+  - first:
+      213: -7513181279699501273
+    second: Title Screen BGL_38
+  - first:
+      213: -7817113739851436570
+    second: Title Screen BGL_46
+  - first:
+      213: 8107896841156810850
+    second: Title Screen BGL_47
+  - first:
+      213: 9139510094459545868
+    second: Title Screen BGL_48
+  - first:
+      213: 3020765178790927528
+    second: Title Screen BGL_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title Screen BGL_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 243
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ba174c301b7c4c87f6db3518a9ac6
+      internalID: 2255233767807877804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 243
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2939b99206d03419700cd8abd620a1
+      internalID: 7179341459413854399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 243
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a724e2b0f23c49a3b79319a8f2615
+      internalID: -3459806778458390941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 243
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46fe69ce08f73c4e83e980d9e7f8017
+      internalID: 2273058646272643213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e7543fae1105468b7fa0b0eefbb9e
+      internalID: -2983695046864030141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ecac049d89de43a820f04c873df20
+      internalID: 2856916572790184555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 234
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9826534ff9514b9a534787adf1bc0
+      internalID: -2324894085535572644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 234
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b16ecb8b5a3a947808b2d9ebf4a3bb
+      internalID: 435695998230291027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b0d3d04d60e764dbdb649ccdc37fc2
+      internalID: -245983568960782003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 216
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8af795398b79d747b086467181d6f6c
+      internalID: 2085999678018437440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7902042033aa440aec0cffbbda4cbb
+      internalID: 3085766092175904989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df27218011bf3429543653dda4a3e8
+      internalID: 1806583631889759395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381af5401173c6458c58b4874b55403
+      internalID: 3054194233981904329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 207
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353e105332b4ac4495b89fd6972dbb3
+      internalID: -7913339534000800140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 180
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b554012552bb2848801eae974216e4b
+      internalID: 5123638334579386488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 180
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8586a7dff47042b5c0d55b72d0534
+      internalID: 2444942078596542875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 180
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193efff752babf4488813e809185c223
+      internalID: -2207919233407015947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fe6474538a86849bba4ec426820dde
+      internalID: -6567723846528521083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 153
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd5a6735c76fd4fb7caf8a15b990ef
+      internalID: -5934112765252473124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62515dbb006cdb24c9440e28a81a4f69
+      internalID: -4751669792724352887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b364ae18fa2b4484efe11c328d277
+      internalID: -4289879224003539585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 72
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f761ade10d2a4cabd8a52542d34b8
+      internalID: 4422303297181277353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa42e9e9ca8ed46afb8eb632c6cc7c
+      internalID: -6098748605916920001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 72
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b2a7482e9ac747af8a85b9b5729e3
+      internalID: -5161367616304254985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955eb6aae5ef4d643b25dec5e1bc445d
+      internalID: 8744053871962087200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 72
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60037bda15058046a5a45c566c8c196
+      internalID: 1114164773560258695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a49ece26576cc42a9efac2a9673163
+      internalID: -8167881830649969645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a2a7c51b0da44999c88c15d1ae5df
+      internalID: -8782105276836872157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72761461f6d8824697674d7a9862f3e
+      internalID: -4259080488203580086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 27
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630281e3d48a8754295bc9bc0304c15f
+      internalID: 4129442373821149948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6c7db7b4a1d44d9bf59046ab246d9
+      internalID: -6605298432392562836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6864e582a2c644adea50114bd6c1f
+      internalID: 1862479205903320850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 27
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b65aa3f500ff4dbeee324bcbb315e
+      internalID: 4254421022163090477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 27
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7848b02512238844f8edc327eff41499
+      internalID: -5285362305439429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6555a9f453db7e42b0e8405374d12e2
+      internalID: -7513181279699501273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c46856c6a8b88438e92e8c9ab9cc14
+      internalID: -7817113739851436570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44865b2d62652c147b19ad144aa9abd5
+      internalID: 8107896841156810850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 153
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf137652d992bfa4481a8caed4b463af
+      internalID: 9139510094459545868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 180
+        width: 112
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0195b19964d48b45b91a2dbf029ef78
+      internalID: 3020765178790927528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 243
+        width: 159
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0aacd1be5a1d84f96cea1c985dea85
+      internalID: -7525074636534073316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 168
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee15ee93cc157a4aaee1e01bf2cbcf1
+      internalID: 3105274613914661704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 207
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f838be2eb8a5c4b83ecc951836acc2
+      internalID: 8266182332450472348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 207
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7187e6dbece029443a791e3af60f18f1
+      internalID: 6820836174773181108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 216
+        width: 133
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475d0393adbf774fac0983a1a3c7c88
+      internalID: -4000533366448478084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 207
+        width: 144
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef600f03fbc6604e9f40661683de266
+      internalID: 2895915657285898920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 153
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb245b368867844a9fc106e7e03b88
+      internalID: -7630916443429060599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen BGL_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 183
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e0aa98fe37f44ea53bdf5f85f4973
+      internalID: -7741615117145021051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4423 @@
+fileFormatVersion: 2
+guid: 0fff664d7c33c10498ed498ed9eabbbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1323575650768489855
+    second: SNES - Super R-Type - Bydo minions_0
+  - first:
+      213: -973879324860559465
+    second: SNES - Super R-Type - Bydo minions_1
+  - first:
+      213: 1530981274953662641
+    second: SNES - Super R-Type - Bydo minions_2
+  - first:
+      213: -2331938158142279445
+    second: SNES - Super R-Type - Bydo minions_3
+  - first:
+      213: 3708559160999044556
+    second: SNES - Super R-Type - Bydo minions_4
+  - first:
+      213: 2222221249912142242
+    second: SNES - Super R-Type - Bydo minions_5
+  - first:
+      213: 5171050422342281580
+    second: SNES - Super R-Type - Bydo minions_6
+  - first:
+      213: 6347620085760570216
+    second: SNES - Super R-Type - Bydo minions_7
+  - first:
+      213: -3294970924125285912
+    second: SNES - Super R-Type - Bydo minions_8
+  - first:
+      213: -3990798074012958327
+    second: SNES - Super R-Type - Bydo minions_9
+  - first:
+      213: 5031141029344526064
+    second: SNES - Super R-Type - Bydo minions_10
+  - first:
+      213: 2309850939999529523
+    second: SNES - Super R-Type - Bydo minions_11
+  - first:
+      213: 7812561155730626725
+    second: SNES - Super R-Type - Bydo minions_12
+  - first:
+      213: 1997691129735719538
+    second: SNES - Super R-Type - Bydo minions_13
+  - first:
+      213: -5547427808342710795
+    second: SNES - Super R-Type - Bydo minions_14
+  - first:
+      213: -2191640661848775015
+    second: SNES - Super R-Type - Bydo minions_15
+  - first:
+      213: 1371569758884207755
+    second: SNES - Super R-Type - Bydo minions_16
+  - first:
+      213: 2816704903109048196
+    second: SNES - Super R-Type - Bydo minions_17
+  - first:
+      213: -3378249309163571714
+    second: SNES - Super R-Type - Bydo minions_18
+  - first:
+      213: -3167979972837339
+    second: SNES - Super R-Type - Bydo minions_19
+  - first:
+      213: -5078321474753079632
+    second: SNES - Super R-Type - Bydo minions_20
+  - first:
+      213: -7083772807008967467
+    second: SNES - Super R-Type - Bydo minions_21
+  - first:
+      213: -7691662623250560092
+    second: SNES - Super R-Type - Bydo minions_22
+  - first:
+      213: -482895821124108626
+    second: SNES - Super R-Type - Bydo minions_23
+  - first:
+      213: -2026217818085912623
+    second: SNES - Super R-Type - Bydo minions_24
+  - first:
+      213: 4859897182376489449
+    second: SNES - Super R-Type - Bydo minions_25
+  - first:
+      213: 4880603386884370164
+    second: SNES - Super R-Type - Bydo minions_26
+  - first:
+      213: 9009078601098937371
+    second: SNES - Super R-Type - Bydo minions_27
+  - first:
+      213: -5793749576411692831
+    second: SNES - Super R-Type - Bydo minions_28
+  - first:
+      213: 5335933644180093634
+    second: SNES - Super R-Type - Bydo minions_29
+  - first:
+      213: 279265507795396688
+    second: SNES - Super R-Type - Bydo minions_30
+  - first:
+      213: 9216030725992326533
+    second: SNES - Super R-Type - Bydo minions_31
+  - first:
+      213: 43747978321347106
+    second: SNES - Super R-Type - Bydo minions_32
+  - first:
+      213: -7077294757443900960
+    second: SNES - Super R-Type - Bydo minions_33
+  - first:
+      213: 1781692686325666894
+    second: SNES - Super R-Type - Bydo minions_34
+  - first:
+      213: 8825367295754484584
+    second: SNES - Super R-Type - Bydo minions_35
+  - first:
+      213: -6596714889417552828
+    second: SNES - Super R-Type - Bydo minions_36
+  - first:
+      213: -3413019012093389975
+    second: SNES - Super R-Type - Bydo minions_37
+  - first:
+      213: 8631389286957699428
+    second: SNES - Super R-Type - Bydo minions_38
+  - first:
+      213: 1127687289890219157
+    second: SNES - Super R-Type - Bydo minions_39
+  - first:
+      213: 6811201087920749207
+    second: SNES - Super R-Type - Bydo minions_40
+  - first:
+      213: -800913828847277803
+    second: SNES - Super R-Type - Bydo minions_41
+  - first:
+      213: 5242346882368903613
+    second: SNES - Super R-Type - Bydo minions_42
+  - first:
+      213: 2956796199666379834
+    second: SNES - Super R-Type - Bydo minions_43
+  - first:
+      213: 3104750391808406084
+    second: SNES - Super R-Type - Bydo minions_44
+  - first:
+      213: -8597787658310524772
+    second: SNES - Super R-Type - Bydo minions_45
+  - first:
+      213: -5199860843643618232
+    second: SNES - Super R-Type - Bydo minions_46
+  - first:
+      213: -7005545219439988231
+    second: SNES - Super R-Type - Bydo minions_47
+  - first:
+      213: -3503249897224044927
+    second: SNES - Super R-Type - Bydo minions_48
+  - first:
+      213: -7323292141527103348
+    second: SNES - Super R-Type - Bydo minions_49
+  - first:
+      213: -7686426149133808413
+    second: SNES - Super R-Type - Bydo minions_50
+  - first:
+      213: -3829356918323640425
+    second: SNES - Super R-Type - Bydo minions_51
+  - first:
+      213: -7930566591725564649
+    second: SNES - Super R-Type - Bydo minions_52
+  - first:
+      213: 1755698654199604179
+    second: SNES - Super R-Type - Bydo minions_53
+  - first:
+      213: -9187318796520821596
+    second: SNES - Super R-Type - Bydo minions_54
+  - first:
+      213: 8736083568733236562
+    second: SNES - Super R-Type - Bydo minions_55
+  - first:
+      213: -3317238142474082324
+    second: SNES - Super R-Type - Bydo minions_56
+  - first:
+      213: -5470671717443545128
+    second: SNES - Super R-Type - Bydo minions_57
+  - first:
+      213: 9043918556372713426
+    second: SNES - Super R-Type - Bydo minions_58
+  - first:
+      213: 3521991815287566785
+    second: SNES - Super R-Type - Bydo minions_59
+  - first:
+      213: -3576952700958723491
+    second: SNES - Super R-Type - Bydo minions_60
+  - first:
+      213: -2019815119497948020
+    second: SNES - Super R-Type - Bydo minions_61
+  - first:
+      213: -6921920118161518882
+    second: SNES - Super R-Type - Bydo minions_62
+  - first:
+      213: 5489479612279770592
+    second: SNES - Super R-Type - Bydo minions_63
+  - first:
+      213: 6774723743234744576
+    second: SNES - Super R-Type - Bydo minions_64
+  - first:
+      213: 914939292777134878
+    second: SNES - Super R-Type - Bydo minions_65
+  - first:
+      213: -6236781795777648986
+    second: SNES - Super R-Type - Bydo minions_66
+  - first:
+      213: -1272059334512777306
+    second: SNES - Super R-Type - Bydo minions_67
+  - first:
+      213: 8888299337242562159
+    second: SNES - Super R-Type - Bydo minions_68
+  - first:
+      213: 1028754944373525078
+    second: SNES - Super R-Type - Bydo minions_69
+  - first:
+      213: -7819233251890992075
+    second: SNES - Super R-Type - Bydo minions_70
+  - first:
+      213: 5369461765654435587
+    second: SNES - Super R-Type - Bydo minions_71
+  - first:
+      213: 2900426668028371525
+    second: SNES - Super R-Type - Bydo minions_72
+  - first:
+      213: 6596143950372289402
+    second: SNES - Super R-Type - Bydo minions_73
+  - first:
+      213: 1539292022235688885
+    second: SNES - Super R-Type - Bydo minions_74
+  - first:
+      213: -6824428854171625764
+    second: SNES - Super R-Type - Bydo minions_75
+  - first:
+      213: -7314478295979519524
+    second: SNES - Super R-Type - Bydo minions_76
+  - first:
+      213: 2532630265615662243
+    second: SNES - Super R-Type - Bydo minions_77
+  - first:
+      213: 8205417368062307653
+    second: SNES - Super R-Type - Bydo minions_78
+  - first:
+      213: -8973715493888657457
+    second: SNES - Super R-Type - Bydo minions_79
+  - first:
+      213: 3745114241276908505
+    second: SNES - Super R-Type - Bydo minions_80
+  - first:
+      213: -7353768709937507255
+    second: SNES - Super R-Type - Bydo minions_81
+  - first:
+      213: -6775423282828568597
+    second: SNES - Super R-Type - Bydo minions_82
+  - first:
+      213: 6305882408312260551
+    second: SNES - Super R-Type - Bydo minions_83
+  - first:
+      213: -1203268333630273704
+    second: SNES - Super R-Type - Bydo minions_84
+  - first:
+      213: 598391137326083482
+    second: SNES - Super R-Type - Bydo minions_85
+  - first:
+      213: -7342549136821079162
+    second: SNES - Super R-Type - Bydo minions_86
+  - first:
+      213: 9031604302044575830
+    second: SNES - Super R-Type - Bydo minions_87
+  - first:
+      213: 9145068245244970830
+    second: SNES - Super R-Type - Bydo minions_88
+  - first:
+      213: -2039248301217726937
+    second: SNES - Super R-Type - Bydo minions_89
+  - first:
+      213: -3837237872627120580
+    second: SNES - Super R-Type - Bydo minions_90
+  - first:
+      213: 3871397205478668779
+    second: SNES - Super R-Type - Bydo minions_91
+  - first:
+      213: -7507855513368177638
+    second: SNES - Super R-Type - Bydo minions_92
+  - first:
+      213: -8349666885265467049
+    second: SNES - Super R-Type - Bydo minions_93
+  - first:
+      213: -7962913147784066500
+    second: SNES - Super R-Type - Bydo minions_94
+  - first:
+      213: 1472856066116612435
+    second: SNES - Super R-Type - Bydo minions_95
+  - first:
+      213: -3624034115118946153
+    second: SNES - Super R-Type - Bydo minions_96
+  - first:
+      213: -4050621884543381864
+    second: SNES - Super R-Type - Bydo minions_97
+  - first:
+      213: 3251567074218902175
+    second: SNES - Super R-Type - Bydo minions_98
+  - first:
+      213: 8037036187229663114
+    second: SNES - Super R-Type - Bydo minions_99
+  - first:
+      213: 8377439041962180849
+    second: SNES - Super R-Type - Bydo minions_100
+  - first:
+      213: -8280285701974921853
+    second: SNES - Super R-Type - Bydo minions_101
+  - first:
+      213: 2258157357412206870
+    second: SNES - Super R-Type - Bydo minions_102
+  - first:
+      213: -4103154541128727252
+    second: SNES - Super R-Type - Bydo minions_103
+  - first:
+      213: 8683489311304478685
+    second: SNES - Super R-Type - Bydo minions_104
+  - first:
+      213: 429270322753312920
+    second: SNES - Super R-Type - Bydo minions_105
+  - first:
+      213: 8994118590321751577
+    second: SNES - Super R-Type - Bydo minions_106
+  - first:
+      213: -3860724753466421718
+    second: SNES - Super R-Type - Bydo minions_107
+  - first:
+      213: -6344764507101631374
+    second: SNES - Super R-Type - Bydo minions_108
+  - first:
+      213: 1553583104206925365
+    second: SNES - Super R-Type - Bydo minions_109
+  - first:
+      213: -1460770201379181024
+    second: SNES - Super R-Type - Bydo minions_110
+  - first:
+      213: -4670904412604048532
+    second: SNES - Super R-Type - Bydo minions_111
+  - first:
+      213: 3311462237809875305
+    second: SNES - Super R-Type - Bydo minions_112
+  - first:
+      213: -7565922886457027329
+    second: SNES - Super R-Type - Bydo minions_113
+  - first:
+      213: 503670167739984554
+    second: SNES - Super R-Type - Bydo minions_114
+  - first:
+      213: 3208664501583812011
+    second: SNES - Super R-Type - Bydo minions_115
+  - first:
+      213: 3592070418250542887
+    second: SNES - Super R-Type - Bydo minions_116
+  - first:
+      213: 5948071002255311645
+    second: SNES - Super R-Type - Bydo minions_117
+  - first:
+      213: 552494934839904392
+    second: SNES - Super R-Type - Bydo minions_118
+  - first:
+      213: -7110355258908553713
+    second: SNES - Super R-Type - Bydo minions_119
+  - first:
+      213: 2789161387637557382
+    second: SNES - Super R-Type - Bydo minions_120
+  - first:
+      213: 4406481731004347935
+    second: SNES - Super R-Type - Bydo minions_121
+  - first:
+      213: -2220334817667643732
+    second: SNES - Super R-Type - Bydo minions_122
+  - first:
+      213: -1864878688566258932
+    second: SNES - Super R-Type - Bydo minions_123
+  - first:
+      213: -2661419600819729879
+    second: SNES - Super R-Type - Bydo minions_124
+  - first:
+      213: 7079213434300628447
+    second: SNES - Super R-Type - Bydo minions_125
+  - first:
+      213: 1493641338012579322
+    second: SNES - Super R-Type - Bydo minions_126
+  - first:
+      213: 8703317450691626049
+    second: SNES - Super R-Type - Bydo minions_127
+  - first:
+      213: -353567690566755779
+    second: SNES - Super R-Type - Bydo minions_128
+  - first:
+      213: 7107625982606382219
+    second: SNES - Super R-Type - Bydo minions_129
+  - first:
+      213: -5905619924039942850
+    second: SNES - Super R-Type - Bydo minions_130
+  - first:
+      213: -7011823443622307557
+    second: SNES - Super R-Type - Bydo minions_131
+  - first:
+      213: -865741375358191264
+    second: SNES - Super R-Type - Bydo minions_132
+  - first:
+      213: 7340242493489489924
+    second: SNES - Super R-Type - Bydo minions_133
+  - first:
+      213: 8841548868947102509
+    second: SNES - Super R-Type - Bydo minions_134
+  - first:
+      213: -2050630400824741315
+    second: SNES - Super R-Type - Bydo minions_135
+  - first:
+      213: 5037976875845125851
+    second: SNES - Super R-Type - Bydo minions_136
+  - first:
+      213: 3357017619719730304
+    second: SNES - Super R-Type - Bydo minions_137
+  - first:
+      213: 7155795759153542118
+    second: SNES - Super R-Type - Bydo minions_138
+  - first:
+      213: -3364693394065816177
+    second: SNES - Super R-Type - Bydo minions_139
+  - first:
+      213: 7890680462276756168
+    second: SNES - Super R-Type - Bydo minions_140
+  - first:
+      213: 3161834724296797178
+    second: SNES - Super R-Type - Bydo minions_141
+  - first:
+      213: 740843598794856908
+    second: SNES - Super R-Type - Bydo minions_142
+  - first:
+      213: 8115461953851045568
+    second: SNES - Super R-Type - Bydo minions_143
+  - first:
+      213: -1818602726404200722
+    second: SNES - Super R-Type - Bydo minions_144
+  - first:
+      213: -4496236485500420659
+    second: SNES - Super R-Type - Bydo minions_145
+  - first:
+      213: -5970260517116961736
+    second: SNES - Super R-Type - Bydo minions_146
+  - first:
+      213: -6827183136007733838
+    second: SNES - Super R-Type - Bydo minions_147
+  - first:
+      213: -4765404476069105219
+    second: SNES - Super R-Type - Bydo minions_148
+  - first:
+      213: -8482668018188958493
+    second: SNES - Super R-Type - Bydo minions_149
+  - first:
+      213: 106252381919550942
+    second: SNES - Super R-Type - Bydo minions_150
+  - first:
+      213: 1207913390976604170
+    second: SNES - Super R-Type - Bydo minions_151
+  - first:
+      213: -3254661275139854119
+    second: SNES - Super R-Type - Bydo minions_152
+  - first:
+      213: -1033147266807904649
+    second: SNES - Super R-Type - Bydo minions_153
+  - first:
+      213: 5405647554413237004
+    second: SNES - Super R-Type - Bydo minions_154
+  - first:
+      213: -2174622993434667795
+    second: SNES - Super R-Type - Bydo minions_155
+  - first:
+      213: 2002982249631039399
+    second: SNES - Super R-Type - Bydo minions_156
+  - first:
+      213: 4151547383480506902
+    second: SNES - Super R-Type - Bydo minions_157
+  - first:
+      213: -5101058379931258656
+    second: SNES - Super R-Type - Bydo minions_158
+  - first:
+      213: 4292528789982643139
+    second: SNES - Super R-Type - Bydo minions_159
+  - first:
+      213: -2279911740834153563
+    second: SNES - Super R-Type - Bydo minions_160
+  - first:
+      213: 2514399619567560191
+    second: SNES - Super R-Type - Bydo minions_161
+  - first:
+      213: 2257082638650336149
+    second: SNES - Super R-Type - Bydo minions_162
+  - first:
+      213: -2112812104874292654
+    second: SNES - Super R-Type - Bydo minions_163
+  - first:
+      213: 6629442066469494412
+    second: SNES - Super R-Type - Bydo minions_164
+  - first:
+      213: -4715155775032373340
+    second: SNES - Super R-Type - Bydo minions_165
+  - first:
+      213: -4477059496585878247
+    second: SNES - Super R-Type - Bydo minions_166
+  - first:
+      213: -4120643600198130920
+    second: SNES - Super R-Type - Bydo minions_167
+  - first:
+      213: 2566916559786577472
+    second: SNES - Super R-Type - Bydo minions_168
+  - first:
+      213: -44607775229379952
+    second: SNES - Super R-Type - Bydo minions_169
+  - first:
+      213: 1840315505187590223
+    second: SNES - Super R-Type - Bydo minions_170
+  - first:
+      213: -1695026771500465623
+    second: SNES - Super R-Type - Bydo minions_171
+  - first:
+      213: -6011795510920926083
+    second: SNES - Super R-Type - Bydo minions_172
+  - first:
+      213: -7724431160638675416
+    second: SNES - Super R-Type - Bydo minions_173
+  - first:
+      213: -3787509435008612729
+    second: SNES - Super R-Type - Bydo minions_174
+  - first:
+      213: -3863971580315762708
+    second: SNES - Super R-Type - Bydo minions_175
+  - first:
+      213: 8229272855762830468
+    second: SNES - Super R-Type - Bydo minions_176
+  - first:
+      213: 2651210226821349897
+    second: SNES - Super R-Type - Bydo minions_177
+  - first:
+      213: 5951327162183100781
+    second: SNES - Super R-Type - Bydo minions_178
+  - first:
+      213: 3273454243322802484
+    second: SNES - Super R-Type - Bydo minions_179
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1804
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2fb0bd2695df04e8d37092e6695436
+      internalID: 1323575650768489855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1805
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb0e3fb2f3f5714f97002aadbe52c6c
+      internalID: -973879324860559465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1807
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20862ffcb71ab47814edb40ce7c7e0
+      internalID: 1530981274953662641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1811
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79817cfa83df37499f54eaafc963f32
+      internalID: -2331938158142279445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1808
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab53173c98bfa4dae10c2f3c69e568
+      internalID: 3708559160999044556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1806
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25506d44bc371704ab1192bbd851ba0d
+      internalID: 2222221249912142242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1813
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76359cc1eca62843bf5fde92ad7479c
+      internalID: 5171050422342281580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1758
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c51757105d280249a855fd264bb0012
+      internalID: 6347620085760570216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1758
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aad5e802ca5d040919ac1a669e05a8
+      internalID: -3294970924125285912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1759
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db28ee67bdf7934aa404417d1eb64a7
+      internalID: -3990798074012958327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1713
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f895cf954e314098754b77c61bfc2
+      internalID: 5031141029344526064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1714
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9ad9d5140e4647978e2d40fb6c550
+      internalID: 2309850939999529523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1716
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c04b9f425f864e96a1c1325fe752d
+      internalID: 7812561155730626725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1716
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992ccc551123ac4fb293c48b90a7814
+      internalID: 1997691129735719538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1678
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ef1f387ad7454788995a0fbd1b767
+      internalID: -5547427808342710795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1678
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa76738c10db9f4aa427a9864e3a3a8
+      internalID: -2191640661848775015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1676
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5f96cc5f1b57478bb29510922faed
+      internalID: 1371569758884207755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1641
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b3e096f3ede1d43ad1ec2a22bfef27
+      internalID: 2816704903109048196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1642
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93e79966a7c7f4f9717e48b2b3fb57
+      internalID: -3378249309163571714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1641
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644e15a43a92ce4cbcfc9eff90137eb
+      internalID: -3167979972837339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1602
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fed4a5a7befe748b57b165ece9c6ee
+      internalID: -5078321474753079632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1602
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a188e367bd61f9542aab2e9b3fcc3ed5
+      internalID: -7083772807008967467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1602
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653627b4d7f1d554b8bab261c8ee08dd
+      internalID: -7691662623250560092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1599
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82762103dc0026044b8ede4923512f92
+      internalID: -482895821124108626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1518
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ba4154d6849342a50671d40cd04e3
+      internalID: -2026217818085912623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1520
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a5116bf1de1549b3696fa6877643d
+      internalID: 4859897182376489449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1519
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d4b7ccbfb2224298368519f0cb317
+      internalID: 4880603386884370164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1522
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2694155eb2c74eb37ad9c22eaf7e5
+      internalID: 9009078601098937371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1534
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b066726ef047347a5eb6d2cf60d453
+      internalID: -5793749576411692831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1531
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4d6e89d42ed4478dfb4d4840cd8e3
+      internalID: 5335933644180093634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1529
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a342888f519c449c1e8ab37d0a8ba
+      internalID: 279265507795396688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1472
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8677c7debcadd4e4badf8c1ec2922300
+      internalID: 9216030725992326533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1470
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b468b29e6f1c4b8c2552609dbf343
+      internalID: 43747978321347106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1469
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27edb8ea5dcb594195a525ff7eadbfd
+      internalID: -7077294757443900960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1468
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4abeeb8032e00479f3e81074ae7d6b
+      internalID: 1781692686325666894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4867db01488c0144b33e0efc8092bf2
+      internalID: 8825367295754484584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b20ac35cf7794d91b4e9210bbc429
+      internalID: -6596714889417552828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1421
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f10524beb57844b7b843a494f9120
+      internalID: -3413019012093389975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1421
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b249e6b96b177478abae37bd7745dc
+      internalID: 8631389286957699428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1421
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d561783514bf4a90004e7a92d1c81
+      internalID: 1127687289890219157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1421
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac54c837b96f354189c2fc706bbfe96
+      internalID: 6811201087920749207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1420
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4b79b9f977a241bbaceed6d8f5649
+      internalID: -800913828847277803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1431
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2eb681fffbb5c469e197309d32011b
+      internalID: 5242346882368903613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1372
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb419a155550065479eefd4a82eb3771
+      internalID: 2956796199666379834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1371
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9156cd875dde448833a778fe4f10c
+      internalID: 3104750391808406084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985e1a1905cd1040b328a91879d4eba
+      internalID: -8597787658310524772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1325
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c26532dc952954eb64da073ca36f38
+      internalID: -5199860843643618232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1325
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e796cff75660dd449b64116e40c9a070
+      internalID: -7005545219439988231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1328
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de0291d6e19de4fb3c5bb6617bb6f5
+      internalID: -3503249897224044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1324
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f788bf2074694ebf078602055eb47
+      internalID: -7323292141527103348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1265
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce26370c362d464fb0a69ed9fb6fe36
+      internalID: -7686426149133808413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1264
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450fdb07dd6e6a409a7edd819cd224c
+      internalID: -3829356918323640425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1265
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900015d67439c5468498088dcd293dc
+      internalID: -7930566591725564649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1273
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f9816e35dab224b862f143b680b0c3
+      internalID: 1755698654199604179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d988ff3ddee734892e14cc79026f34
+      internalID: -9187318796520821596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1271
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375d3237a133624c9750422725bba1e
+      internalID: 8736083568733236562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1270
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607ee3bec1f18e4408722e9850d56c99
+      internalID: -3317238142474082324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1272
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc684b309c98c42a84d6b00dd79018
+      internalID: -5470671717443545128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1225
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e7fe2bb2b02c4baa6878c6558463f
+      internalID: 9043918556372713426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1225
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab23ccf7654fe4c853af7416415f91
+      internalID: 3521991815287566785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1882bf55e02f419f5d4273e38b1a7
+      internalID: -3576952700958723491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1175
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc2a316a19513478637595640fc991
+      internalID: -2019815119497948020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1171
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc308b0909082488959c60596782e4
+      internalID: -6921920118161518882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1175
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30005421ba8ec748b9ce276ba8313b8
+      internalID: 5489479612279770592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1074
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90cc4130e3307844bae891071cf89b2
+      internalID: 6774723743234744576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1078
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33239e6bb8b6b004dbdb36d8d3388f23
+      internalID: 914939292777134878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1078
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc610ffc5469240bea7919a1521249
+      internalID: -6236781795777648986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1078
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da2435c85d92448b2b450563c4b301
+      internalID: -1272059334512777306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1033
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c7a4e9ab5f5e4e982331663991305
+      internalID: 8888299337242562159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1033
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5208c359417d42af9157db66910f5
+      internalID: 1028754944373525078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1033
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a78d95e93c79748942b027249c2a57
+      internalID: -7819233251890992075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1031
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da4498441d14f64b96fa3b7ec821309
+      internalID: 5369461765654435587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1036
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6324f385476a7043b18d48640571246
+      internalID: 2900426668028371525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1036
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eaaf39b5a5e8a49a2b1c73609e1c5c
+      internalID: 6596143950372289402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 960
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e5fb8f8a7b5548b21893e1060b36a
+      internalID: 1539292022235688885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 950
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c274c63918355f94c9c0f54e71a3cb87
+      internalID: -6824428854171625764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 921
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272da38506d73844896322d1bb82b0c4
+      internalID: -7314478295979519524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 919
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae463af757b6c5489159510fff6b35f
+      internalID: 2532630265615662243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 853
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e921808e5a8f4f8baaa870228a3bb
+      internalID: 8205417368062307653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 857
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698bdc3677cd4e4aa16680ab4b0a296
+      internalID: -8973715493888657457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 826
+        width: 10
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c33151036f154ebd5504266546892
+      internalID: 3745114241276908505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 826
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fdd96cdb3a2384caa4cfc3873cea92
+      internalID: -7353768709937507255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 852
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee42abe4663b4f4c9cf748a7395bc3b
+      internalID: -6775423282828568597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_83
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 851
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5ba58dd651a245a073df41a939a7e
+      internalID: 6305882408312260551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_84
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 862
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb3d9103a62ce498ba1975b1b8e69c
+      internalID: -1203268333630273704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 862
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba527d04f1429946b31c97aec5e51ab
+      internalID: 598391137326083482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_86
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 861
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd154a436236c84abd0f855b729aecf
+      internalID: -7342549136821079162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_87
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 862
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da34244ad611a34a8c178aa4606ad8a
+      internalID: 9031604302044575830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 862
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f96e92867a34a44b2b3c1f7d5a1727
+      internalID: 9145068245244970830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 784
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f0fe5355978948b91ec66ded668d2
+      internalID: -2039248301217726937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_90
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 786
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2be5930a0ce34408df6b922dd22bb0
+      internalID: -3837237872627120580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_91
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 792
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb356b9aa4b774ab4e8744b2c786d8
+      internalID: 3871397205478668779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 748
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babb397d750fb5499579fc77c2dec37
+      internalID: -7507855513368177638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 748
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c367ba406549242ad0391c96a58dda
+      internalID: -8349666885265467049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 748
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800664553d314664fa6b00a543f71fc6
+      internalID: -7962913147784066500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 749
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335214a251b674b418e821f4f79518ef
+      internalID: 1472856066116612435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 749
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd33d118f07024286933c2db3386cf
+      internalID: -3624034115118946153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2afa22802b5ce24a84c11de1fca8410
+      internalID: -4050621884543381864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_98
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 696
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ad77e48c34ef458326ebf1c86cb02
+      internalID: 3251567074218902175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 696
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b649804d8f6e8c48a60f3ebd486cd7f
+      internalID: 8037036187229663114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 695
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52668fb50021b7749812ea7484d2b0e6
+      internalID: 8377439041962180849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 694
+        width: 127
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d2b0c193ece744af22b366821343c
+      internalID: -8280285701974921853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 646
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92117dae0aa0c514b93c66f861eb58b2
+      internalID: 2258157357412206870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 647
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27bc14a6b8ce8242b0aaf0b08d38264
+      internalID: -4103154541128727252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 647
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798281f04710b741b8f4689bd354069
+      internalID: 8683489311304478685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 647
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d1a3eb7135ea4a86c96604090635d
+      internalID: 429270322753312920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_106
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 608
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c816fb802bf62e48ac00e088ef8dc68
+      internalID: 8994118590321751577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_107
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 608
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba97d43ec4b4cf479102558940e9b93
+      internalID: -3860724753466421718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_108
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 607
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea65872d9e51f4d823cab4ac4de3d8
+      internalID: -6344764507101631374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_109
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 558
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca57e80bc9cbb47903db3eca9a3144
+      internalID: 1553583104206925365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 558
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886f714285d18c4093c6bd6dc3d5655
+      internalID: -1460770201379181024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_111
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 557
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e40cdabacd584a8be3f8dfb309cdf
+      internalID: -4670904412604048532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_112
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 566
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f106865339c6da844b7166c4a776efb6
+      internalID: 3311462237809875305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_113
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 567
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b02abf8d060245a2aab98296e07ba
+      internalID: -7565922886457027329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_114
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 514
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6424d36f87cb0647b90a81b965fd712
+      internalID: 503670167739984554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 514
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b2b22a69016849ac817e7151e41ca
+      internalID: 3208664501583812011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_116
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 514
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8091e9918d5ff14eb57effad4c0049f
+      internalID: 3592070418250542887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_117
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6d61ec4957d44faa5ed0b6a12f433
+      internalID: 5948071002255311645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9b4a8b5196c414e8214b40af661694
+      internalID: 552494934839904392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb3e723cdbd764cb46c5f0d24059a6
+      internalID: -7110355258908553713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_120
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 471
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a069e20e2ae840aab69c8fcfbcb81
+      internalID: 2789161387637557382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 423
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f44cdc27c84711408bbd5657a617aa9
+      internalID: 4406481731004347935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_122
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 424
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd479a1d8b0bf540b8fc7c6b280f6d1
+      internalID: -2220334817667643732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_123
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 426
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87d89a518df16c409359ae5932956db
+      internalID: -1864878688566258932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_124
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 426
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72e0d7a588ebe4c9e7b50edce0f970
+      internalID: -2661419600819729879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_125
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 427
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061aaa0eb9342b4aba21e89338f7c59
+      internalID: 7079213434300628447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_126
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 431
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bbaf3a22636f4ea5f9dedf7841cbd
+      internalID: 1493641338012579322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 432
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c27faab3dd93f41a0f4fb5e0d0a59f
+      internalID: 8703317450691626049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 354
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f805ac09996b72428db779ef41e1cff
+      internalID: -353567690566755779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_129
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 354
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9614288dcdf2545a8be7be908596c2
+      internalID: 7107625982606382219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_130
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 359
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960dd974d1760ea4c89f886122162912
+      internalID: -5905619924039942850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_131
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 364
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9747e11fae074fbe2698ae262ded1
+      internalID: -7011823443622307557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_132
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d42fdda7fa444985090bbf9e33ead
+      internalID: -865741375358191264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_133
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 389
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902488990d81014091732bc89fd651b
+      internalID: 7340242493489489924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_134
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 374
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7378f69fd61a4cb3de635c829a722
+      internalID: 8841548868947102509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_135
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 373
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d37188b024eac48970a369fee12ca1
+      internalID: -2050630400824741315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_136
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 374
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83f1e13ee4dc8842b64e639d7935445
+      internalID: 5037976875845125851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_137
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 374
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7bd803e441ec14a8c8cfd0bb7191b0
+      internalID: 3357017619719730304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_138
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 374
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd9b93f5ad60c4290eaa2a53187317
+      internalID: 7155795759153542118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 369
+        width: 76
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43d680f105d4c48aae914e708f267b
+      internalID: -3364693394065816177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_140
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 285
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134a6c5d122e6446a94bb7fd88aebe4
+      internalID: 7890680462276756168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 284
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785ccf548b59de48b87df16da44121d
+      internalID: 3161834724296797178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_142
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 291
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f240e8eea8be64b9933d0ba0f58edc
+      internalID: 740843598794856908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_143
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 297
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80fad4c36c1ce469b8a9e4fd546051
+      internalID: 8115461953851045568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_144
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 301
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c7ff28f957294786ddbaf708bea15
+      internalID: -1818602726404200722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_145
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 322
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94709a018f4f00641a0c7fe04439df05
+      internalID: -4496236485500420659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 307
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ccd27147c49ad449ca5452d476c99c
+      internalID: -5970260517116961736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_147
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 308
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3110d5b89b12a24ab72946c466a37f8
+      internalID: -6827183136007733838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 308
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd7f2d23eab1e47b6fd05cdc1cf111
+      internalID: -4765404476069105219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_149
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 307
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d2313b9500014b9e9cf76ef81f822
+      internalID: -8482668018188958493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_150
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 307
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c27f04c038a4d42a90aa9176a67f7c
+      internalID: 106252381919550942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_151
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 301
+        width: 76
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1b29d399ec9747bc3dbc12454e99b
+      internalID: 1207913390976604170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a7f5aa8f20f64b842c5683e68e29a
+      internalID: -3254661275139854119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_153
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025beaa9ed12ab4ca4f92ec4fcb467e
+      internalID: -1033147266807904649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_154
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9b4f0f614b1e47b90407d3000cf9c
+      internalID: 5405647554413237004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_155
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 251
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce413c6f01bc6b4dbae0393ec911924
+      internalID: -2174622993434667795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_156
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 252
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f6ea2a046d4746baf9c2307293f52
+      internalID: 2002982249631039399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_157
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 252
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aee2622b952b84d8fe402719033ef2
+      internalID: 4151547383480506902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_158
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 253
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d17a4f699b834abc8a683429d324d
+      internalID: -5101058379931258656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_159
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 255
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba341ea91ec69448b5246215e01655
+      internalID: 4292528789982643139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_160
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddaf37e8dbcb23478e81afd26c76b59
+      internalID: -2279911740834153563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_161
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 228
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af1bec758060a4db12d4ebf6fd5107
+      internalID: 2514399619567560191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_162
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 197
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40dae21d532514d9098d4d91164536
+      internalID: 2257082638650336149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ca644ff0b5ec4e88c6323563431d8
+      internalID: -2112812104874292654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_164
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 197
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453257b671e1b8d4589c3ecc337aca26
+      internalID: 6629442066469494412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_165
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 199
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3e55064232db4d8a6c3324443d078
+      internalID: -4715155775032373340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_166
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8226f5b0f41b7b44d891e212d2be14ae
+      internalID: -4477059496585878247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_167
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 164
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9b6f564a92c046bd9d5639f6f8a9a
+      internalID: -4120643600198130920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_168
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 161
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e952115fb87d4fa49e33f9df83ff1
+      internalID: 2566916559786577472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_169
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 163
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef91df8622a50546bfd46a458e8799b
+      internalID: -44607775229379952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 113
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414751a5e159e54d9d579344c85171e
+      internalID: 1840315505187590223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_171
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a0549afbb922246a155e2ac9a62bc5
+      internalID: -1695026771500465623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_172
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ac2439b088c940aa9e4cd9ca32a8f
+      internalID: -6011795510920926083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_173
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797cfbaa0a0a40c429ed3cef8245c460
+      internalID: -7724431160638675416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_174
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 60
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169174d38285c34ebc38c61f793fc6d
+      internalID: -3787509435008612729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030119309c424e641aedac74b05c2b45
+      internalID: -3863971580315762708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f79630f977b14b8888b4929a79b0e
+      internalID: 8229272855762830468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_177
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f51e8ad62f1ae4a99490583055f03e
+      internalID: 2651210226821349897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_178
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 65
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9763868bdeda499f0c534e584d3f2
+      internalID: 5951327162183100781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super R-Type - Bydo minions_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66dfca9eff8d543b06c09f88f9c65c
+      internalID: 3273454243322802484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
