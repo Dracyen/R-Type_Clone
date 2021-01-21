@@ -6,8 +6,6 @@ public class MainProjectile : MonoBehaviour
 {
     private Rigidbody2D Shot;
 
-    private Animator Animate;
-
     private float Damage;
 
     private bool goBack;
@@ -18,8 +16,6 @@ public class MainProjectile : MonoBehaviour
     {
         Shot = gameObject.GetComponent<Rigidbody2D>();
 
-        Animate = gameObject.GetComponent<Animator>();
-
         Damage = 0.075f;
 
         goBack = false;
@@ -29,10 +25,6 @@ public class MainProjectile : MonoBehaviour
 
     void Update()
     {
-        //Animation
-
-        Animate.SetFloat("Damage", Damage);
-
         if(goBack == false)
         {
             Shot.position += new Vector2(Speed * Time.deltaTime, 0);
